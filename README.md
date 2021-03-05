@@ -1,2 +1,2 @@
 # TestMaven
-Thrash jast for test
+Thrash just for test
